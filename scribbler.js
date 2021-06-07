@@ -15,9 +15,9 @@ if (document.getElementsByClassName('demo').length > 0) {
     var txt = `curl http://covid19restapi.herokuapp.com/state?statename=Maharashtra
 {
       "state":"Maharashtra",
-      "totalActiveCases":"274601",
-      "cured":"5362370",
-      "death":"94844"    
+      "totalActiveCases":"188384",
+      "cured":"5543267",
+      "death":"100130"    
 }
   `;
     var speed = 9;
